@@ -1,0 +1,7 @@
+fsco/
+__pycache__/
+*.pyc
+*.pyo
+*.pdf
+*.docx
+*.png
